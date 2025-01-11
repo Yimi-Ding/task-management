@@ -4,7 +4,16 @@ A modern task management system built with PHP and MySQL, featuring user authent
 
 ## 🌟 Preview
 
-![Project Preview](./screenshots/preview.png)
+![Project Preview]
+![login page](./preview/signin.png)
+![register page](./preview/register.png)
+![add task page](./preview/add-task.png)
+![task detail page](./preview/task-details.png)
+![edit task page](./preview/edit-task.png)
+![add new task page](./preview/add-new-task.png)
+![delete task page](./preview/delete-task.png)
+![to do list page](./preview/my-to-do-list.png)
+
 
 ## 🚀 Features
 
@@ -230,6 +239,10 @@ Response:
 
 - Thanks to Dr. Hala for guidance
 - Thanks to all contributors
+- Special thanks to our pets: 
+  - Douya
+  - Hachi
+  - Damao & Xiaomao
 
 ## 📞 Contact
 
