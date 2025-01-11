@@ -247,7 +247,7 @@ Response:
 ## 📞 Contact
 
 For any questions, please reach out:
-- Send email to [your-email@example.com]
+- Send email to neigeTin@gmail.com
 
 ## ⚠️ Disclaimer
 
