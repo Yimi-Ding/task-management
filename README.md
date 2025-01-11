@@ -145,7 +145,7 @@ CREATE TABLE tasks (
 
 #### Register
 ```http
-POST /api/register.php
+POST /to-do-list/server/register.php
 
 Request:
 {
@@ -162,7 +162,7 @@ Response:
 
 #### Login
 ```http
-POST /api/login.php
+POST /to-do-list/server/login.php
 
 Request:
 {
@@ -181,7 +181,7 @@ Response:
 
 #### Create Task
 ```http
-POST /api/tasks/create.php
+POST /to-do-list/server/add_task.php
 
 Request:
 {
@@ -218,22 +218,6 @@ Response:
 - Yimi Ding
 
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch
-    ```bash
-    git checkout -b feature/AmazingFeature
-    ```
-3. Commit your changes
-    ```bash
-    git commit -m 'Add some AmazingFeature'
-    ```
-4. Push to the branch
-    ```bash
-    git push origin feature/AmazingFeature
-    ```
-5. Open a Pull Request
 
 ## 🙏 Acknowledgments
 
